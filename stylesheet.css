@@ -1,0 +1,40 @@
+
+        body {
+          background-color: #f1f2f6;
+        }
+        body {
+         margin: 0 auto;
+        max-width: 50em;
+  font-family: "Roboto";
+  line-height: 1.5;
+  padding: 4em 1em;
+        }
+        
+        h1 {
+            text-align: center;
+             color: #2f3542;
+          margin: 0 auto;
+          margin-top: 1em;
+            padding-top: 1em;
+            font-weight: bold;
+            font-size: 40px;
+        }
+     h2 {
+        text-align: center;
+        color: #2f3542;
+          margin: 0 auto;
+          margin-top: 1em;
+         padding-top: 1em;
+         font-size: 30px;
+        }
+
+    address {text-align: center;
+    }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
